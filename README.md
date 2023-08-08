@@ -30,14 +30,4 @@ This project aims to create a web-based Japanese to Keigo converter using the Op
 
 10. **Continuous Deployment (Optional)**: Implement a continuous deployment pipeline to automate updates.
 
-## Get Involved
 
-Contributions are welcome! If you'd like to contribute to this project, please follow the steps outlined in the [Contributing](CONTRIBUTING.md) guide.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-For more detailed instructions and information on each step, refer to the full project documentation.
